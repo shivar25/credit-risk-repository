@@ -24,19 +24,7 @@ Combined to build a binary target: Good (paid on time) or Bad (overdue ≥60 day
 
 **STEPS PERFORMED**
 
-Data Cleaning & Merging
-
-Feature Engineering
-
-Handling Class Imbalance
-
-Train-Test Split
-
-Random Forest Model Training
-
-Evaluation (Accuracy, Classification Report, ROC, AUC)
-
-Feature Importance Analysis
+Data Cleaning & Merging, Feature Engineering, Handling Class Imbalance, Train-Test Split, Random Forest Model Training, Evaluation (Accuracy, Classification Report, ROC, AUC), Feature Importance Analysis.
 
 **RESULTS**
 
